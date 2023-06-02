@@ -1,0 +1,587 @@
+<mxfile host="65bd71144e" pages="4">
+    <diagram name="日麻牌谱记法" id="vhzutfC1zjlg7FCv4uyW">
+        <mxGraphModel dx="882" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="75si7XjulqAksQGl7jy4-100" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="489" y="497" width="296.75" height="119.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-101" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-100" vertex="1">
+                    <mxGeometry width="296.75" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-102" value="早巡" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-101" vertex="1">
+                    <mxGeometry width="60" height="42" as="geometry">
+                        <mxRectangle width="60" height="42" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-103" value="1｜2｜3｜4｜5｜6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-101" vertex="1">
+                    <mxGeometry x="60" width="237" height="42" as="geometry">
+                        <mxRectangle width="237" height="42" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-100" vertex="1">
+                    <mxGeometry y="42" width="296.75" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-105" value="中巡" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-104" vertex="1">
+                    <mxGeometry width="60" height="40" as="geometry">
+                        <mxRectangle width="60" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-106" value="7｜8｜9｜10｜11｜12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-104" vertex="1">
+                    <mxGeometry x="60" width="237" height="40" as="geometry">
+                        <mxRectangle width="237" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-100" vertex="1">
+                    <mxGeometry y="82" width="296.75" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-108" value="晚巡" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-107" vertex="1">
+                    <mxGeometry width="60" height="38" as="geometry">
+                        <mxRectangle width="60" height="38" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-109" value="13｜14｜15｜16｜17｜18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-107" vertex="1">
+                    <mxGeometry x="60" width="237" height="38" as="geometry">
+                        <mxRectangle width="237" height="38" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-119" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="45" y="419" width="402" height="341" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-110" value="⭐️&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;一向听" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry width="142" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-111" value="⭐️⭐️&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;二向听" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="51" width="142" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-112" value="🔺&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;听牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="102" width="122" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-114" value="🔺⭐️&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;可听牌，但选择了防守" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="153" width="282" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-115" value="❌&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;放铳牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="203" width="142" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-116" value="吃/碰&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;写鸣牌方自摸栏，并标注吃/碰" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="254" width="351" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-117" value="杠&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;写自摸栏，杠后摸牌写下方，分行写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-119" vertex="1">
+                    <mxGeometry y="305" width="402" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-126" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="225" y="810" width="422" height="162" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-124" value="字牌&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;东｜西｜南｜北｜中｜发｜白" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-126" vertex="1">
+                    <mxGeometry y="126" width="342" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-120" value="索子&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;I｜II｜III｜IV｜V｜VI｜VII｜VIII｜IX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-126" vertex="1">
+                    <mxGeometry width="359" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-121" value="饼子&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;I｜2｜3｜4｜5｜6｜7｜8｜9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-126" vertex="1">
+                    <mxGeometry y="42" width="344" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-122" value="万子&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;一｜二｜三｜四｜五｜六｜七｜八｜九" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-126" vertex="1">
+                    <mxGeometry y="84" width="422" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-127" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="78" y="132" width="695" height="234" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-77" value="" style="group" parent="75si7XjulqAksQGl7jy4-127" vertex="1" connectable="0">
+                    <mxGeometry width="399.5" height="234" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-59" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;shadow=0;rounded=0;columnLines=1;rowLines=1;fixedRows=0;bottom=1;left=1;" parent="75si7XjulqAksQGl7jy4-77" vertex="1">
+                    <mxGeometry y="34" width="399.5" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-59" vertex="1">
+                    <mxGeometry width="399.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-61" value="东一局/0本场" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-60" vertex="1">
+                    <mxGeometry width="135" height="40" as="geometry">
+                        <mxRectangle width="135" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-62" value="Dora 8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=right;" parent="75si7XjulqAksQGl7jy4-60" vertex="1">
+                    <mxGeometry x="135" width="265" height="40" as="geometry">
+                        <mxRectangle width="265" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-59" vertex="1">
+                    <mxGeometry y="40" width="399.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-64" value="东&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-63" vertex="1">
+                    <mxGeometry width="135" height="40" as="geometry">
+                        <mxRectangle width="135" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-65" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-63" vertex="1">
+                    <mxGeometry x="135" width="265" height="40" as="geometry">
+                        <mxRectangle width="265" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-59" vertex="1">
+                    <mxGeometry y="80" width="399.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-67" value="南" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-66" vertex="1">
+                    <mxGeometry width="135" height="40" as="geometry">
+                        <mxRectangle width="135" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-66" vertex="1">
+                    <mxGeometry x="135" width="265" height="40" as="geometry">
+                        <mxRectangle width="265" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-59" vertex="1">
+                    <mxGeometry y="120" width="399.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-70" value="西" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-69" vertex="1">
+                    <mxGeometry width="135" height="40" as="geometry">
+                        <mxRectangle width="135" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-69" vertex="1">
+                    <mxGeometry x="135" width="265" height="40" as="geometry">
+                        <mxRectangle width="265" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-59" vertex="1">
+                    <mxGeometry y="160" width="399.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-73" value="北" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-72" vertex="1">
+                    <mxGeometry width="135" height="40" as="geometry">
+                        <mxRectangle width="135" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-74" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="75si7XjulqAksQGl7jy4-72" vertex="1">
+                    <mxGeometry x="135" width="265" height="40" as="geometry">
+                        <mxRectangle width="265" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-75" value="RML大赛第一场" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="75si7XjulqAksQGl7jy4-77" vertex="1">
+                    <mxGeometry x="122.75" width="163" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-78" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;curved=1;" parent="75si7XjulqAksQGl7jy4-77" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="379" y="100" as="sourcePoint"/>
+                        <mxPoint x="439" y="88" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75si7XjulqAksQGl7jy4-79" value="配&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 初始点&lt;br&gt;摸&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 得/失点（+/-）&lt;br&gt;舍&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 最终点&lt;br&gt;终&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=center;dashed=1;" parent="75si7XjulqAksQGl7jy4-127" vertex="1">
+                    <mxGeometry x="444" y="21" width="251" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="mIo-QP7zUgM7ajBPxX1h" name="五组牌理论">
+        <mxGraphModel dx="1604" dy="1176" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-1" value="麻将和牌——五组牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontFamily=雅痞-简;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="481" y="81" width="288" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-2" value="1/2/3｜I/II/III/一/二/三/｜东/东/东｜中/中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontSize=20;fontFamily=雅痞-简;fontColor=#000000;shadow=0;sketch=1;curveFitting=1;jiggle=2;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="36" y="66" width="370" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-15" value="" style="group;fillColor=none;strokeColor=default;dashed=1;rounded=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="57" y="163" width="600" height="218" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;curved=1;exitX=0.403;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.443;entryY=-0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="pqHxTHXrWIoKvQ6vYjJy-15" source="pqHxTHXrWIoKvQ6vYjJy-3" target="pqHxTHXrWIoKvQ6vYjJy-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="257.14285714285717" y="39" as="sourcePoint"/>
+                        <mxPoint x="251.52224824355972" y="84" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-5" value="六组牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="pqHxTHXrWIoKvQ6vYjJy-15" vertex="1">
+                    <mxGeometry x="317.99707259953163" y="89" width="78" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-7" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="pqHxTHXrWIoKvQ6vYjJy-15" source="pqHxTHXrWIoKvQ6vYjJy-6" target="pqHxTHXrWIoKvQ6vYjJy-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-6" value="拆一组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="pqHxTHXrWIoKvQ6vYjJy-15" vertex="1">
+                    <mxGeometry x="456.00290398126464" y="53" width="78" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-8" value="最弱的一组：&lt;br&gt;只能进张VII&lt;br&gt;且V/VI也可进张VII" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="pqHxTHXrWIoKvQ6vYjJy-15" vertex="1">
+                    <mxGeometry x="-4.215456674473068" y="134" width="181" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-9" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="pqHxTHXrWIoKvQ6vYjJy-15" source="pqHxTHXrWIoKvQ6vYjJy-5" target="pqHxTHXrWIoKvQ6vYjJy-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-11" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="pqHxTHXrWIoKvQ6vYjJy-15" source="pqHxTHXrWIoKvQ6vYjJy-10" target="pqHxTHXrWIoKvQ6vYjJy-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="102.57611241217799" y="55"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-12" value="打VIII" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="pqHxTHXrWIoKvQ6vYjJy-15" vertex="1">
+                    <mxGeometry x="456.00044496487124" y="149" width="68" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-13" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="pqHxTHXrWIoKvQ6vYjJy-15" source="pqHxTHXrWIoKvQ6vYjJy-8" target="pqHxTHXrWIoKvQ6vYjJy-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-14" value="" style="group" parent="pqHxTHXrWIoKvQ6vYjJy-15" vertex="1" connectable="0">
+                    <mxGeometry width="600" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-3" value="A. 五/六｜V/VI｜VIII/XI｜4/4｜6/6/7｜中/中/中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;" parent="pqHxTHXrWIoKvQ6vYjJy-14" vertex="1">
+                    <mxGeometry y="4" width="427" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-10" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;" parent="pqHxTHXrWIoKvQ6vYjJy-14" vertex="1">
+                    <mxGeometry x="215.69" width="62.31" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-6" value="" style="group;strokeColor=default;dashed=1;rounded=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="409" y="396" width="407" height="143" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-28" value="五组牌" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-6" vertex="1">
+                    <mxGeometry x="203.99571428571434" y="46.995714285714314" width="78" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-1" value="VI在该组中是多余牌&lt;br&gt;打VI可以直接构成面子" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-6" vertex="1">
+                    <mxGeometry y="83" width="214" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-4" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-6" source="pqHxTHXrWIoKvQ6vYjJy-28" target="yPU68_7NgLjOLIXauVRK-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-5" value="" style="group" parent="yPU68_7NgLjOLIXauVRK-6" vertex="1" connectable="0">
+                    <mxGeometry x="3" width="404" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-16" value="&lt;font&gt;B. 四/五｜II/III/IV/IV｜VII/VII/IX｜2/3/3｜6/7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;fontColor=default;" parent="yPU68_7NgLjOLIXauVRK-5" vertex="1">
+                    <mxGeometry y="10" width="404" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqHxTHXrWIoKvQ6vYjJy-22" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;fontColor=default;" parent="yPU68_7NgLjOLIXauVRK-5" vertex="1">
+                    <mxGeometry x="90" width="100" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-3" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-6" source="pqHxTHXrWIoKvQ6vYjJy-22" target="pqHxTHXrWIoKvQ6vYjJy-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-2" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-6" source="pqHxTHXrWIoKvQ6vYjJy-22" target="yPU68_7NgLjOLIXauVRK-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="76" y="62"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-15" value="" style="group;strokeColor=default;dashed=1;rounded=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="16" y="436" width="380" height="148.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-7" value="C. 四/五｜七/八｜1/1/1｜1/2/3｜4/4｜6/7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-15" vertex="1">
+                    <mxGeometry y="4.5" width="380" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-8" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;" parent="yPU68_7NgLjOLIXauVRK-15" vertex="1">
+                    <mxGeometry x="91" width="67" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-9" value="六组牌" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=雅痞-简;dashed=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-15" vertex="1">
+                    <mxGeometry x="164" y="56.5" width="78" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-11" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-15" source="yPU68_7NgLjOLIXauVRK-8" target="yPU68_7NgLjOLIXauVRK-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-12" value="拆七/八，有重复的六进张" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-15" vertex="1">
+                    <mxGeometry x="54" y="112.5" width="247" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-13" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-15" source="yPU68_7NgLjOLIXauVRK-9" target="yPU68_7NgLjOLIXauVRK-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-28" value="" style="group;strokeColor=default;dashed=1;rounded=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="19" y="615" width="788" height="126" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-17" value="D. 五/七/七｜II/III｜VI/VII/VII｜2/4｜5/5｜7/7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry y="21" width="420" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-18" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="269" y="9" width="147" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-19" value="2/4/5｜5/7/7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="443" width="152" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-20" value="2/4/5/5｜7/7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="443" y="42" width="152" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="416" y="4.5" width="23" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-22" value="五组牌拆法" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="612" y="18.5" width="118" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="592" width="20" height="73" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-24" value="六组牌，拆任意一组都可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="205" y="90" width="238" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-27" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;entryX=0.538;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yPU68_7NgLjOLIXauVRK-28" source="yPU68_7NgLjOLIXauVRK-18" target="yPU68_7NgLjOLIXauVRK-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-25" value="无论怎么分组，2都是多余牌" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="yPU68_7NgLjOLIXauVRK-28" vertex="1">
+                    <mxGeometry x="519" y="90" width="269" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-26" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yPU68_7NgLjOLIXauVRK-28" source="yPU68_7NgLjOLIXauVRK-22" target="yPU68_7NgLjOLIXauVRK-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-34" value="" style="group;strokeColor=default;dashed=1;rounded=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="19" y="785" width="754" height="77" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-29" value="E. 五*/六｜六/六｜V/VI/VII｜IX/IX｜3/5｜5/6/7&lt;br&gt;&amp;nbsp; &amp;nbsp; 五*｜六/六/六｜V/VI/VII｜IX/IX｜3/5｜5/6/7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-34" vertex="1">
+                    <mxGeometry y="6" width="414" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-30" value="六组牌，拆IX，因为有雀头候补" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-34" vertex="1">
+                    <mxGeometry x="461" width="293" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-33" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-34" source="yPU68_7NgLjOLIXauVRK-29" target="yPU68_7NgLjOLIXauVRK-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-31" value="六组牌，拆五*，但少一个Dora" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-34" vertex="1">
+                    <mxGeometry x="458" y="41" width="294" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-32" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-34" source="yPU68_7NgLjOLIXauVRK-29" target="yPU68_7NgLjOLIXauVRK-31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-35" value="&lt;b&gt;一些即可分为1组也可2组的&lt;/b&gt;&lt;br&gt;&lt;br&gt;三/四/五/六 = 三/四｜五/六&lt;br&gt;V/VI/VI/VII = V/VI｜VI/VII&lt;br&gt;3/4/5/7 = 3/4｜5/7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+                    <mxGeometry x="24" y="894" width="260" height="132" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-42" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="300" y="942" width="499" height="136" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-36" value="F. 西&amp;lt;2&amp;gt; dora7&lt;br&gt;三/四｜六/七｜V*/V/VI/VIII｜3/4｜7/8｜北/北" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-42" vertex="1">
+                    <mxGeometry x="15" width="432" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-37" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;" parent="yPU68_7NgLjOLIXauVRK-42" vertex="1">
+                    <mxGeometry x="376" y="24" width="61" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-38" value="六组牌，拆北/北" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-42" vertex="1">
+                    <mxGeometry x="332" y="94" width="167" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-39" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=-0.069;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-42" source="yPU68_7NgLjOLIXauVRK-37" target="yPU68_7NgLjOLIXauVRK-38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-40" value="还可以考虑打VIII，不失VII的进张&lt;br&gt;但前进后，依旧为六组牌，还是得拆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="yPU68_7NgLjOLIXauVRK-42" vertex="1">
+                    <mxGeometry y="76" width="338" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yPU68_7NgLjOLIXauVRK-41" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="yPU68_7NgLjOLIXauVRK-42" source="yPU68_7NgLjOLIXauVRK-36" target="yPU68_7NgLjOLIXauVRK-40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="KqZNXjkU4xEf7I5BUGyH" name="六组牌理论">
+        <mxGraphModel dx="7498" dy="8830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pUMMDYGWcZ7jhbaFpho3-1" value="有利于推进向听的打法——六组牌理论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontFamily=雅痞-简;fontStyle=1;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+                    <mxGeometry x="-6462" y="-8136" width="528" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-63" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="-6591" y="-8071" width="777" height="642" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-1" value="A. dora III&lt;br&gt;二/三｜六/七/七｜II/III｜IX/IX｜2/3/4/5/6&lt;br&gt;二/三｜六/七/七｜II/III｜IX/IX｜2/3/4｜5/6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry y="14" width="398" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-2" value="五组牌拆分" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="418" y="12" width="118" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-3" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;exitX=1;exitY=0.226;exitDx=0;exitDy=0;exitPerimeter=0;" parent="qfBd_sHDhE5tFHjCVVJm-63" source="qfBd_sHDhE5tFHjCVVJm-1" target="qfBd_sHDhE5tFHjCVVJm-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-4" value="六组牌拆分" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="415" y="62" width="118" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-5" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="qfBd_sHDhE5tFHjCVVJm-63" source="qfBd_sHDhE5tFHjCVVJm-1" target="qfBd_sHDhE5tFHjCVVJm-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-6" value="暂时保留六组牌的打法，推迟拆搭的选择时机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="359" y="108" width="418" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-7" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="qfBd_sHDhE5tFHjCVVJm-63" source="qfBd_sHDhE5tFHjCVVJm-4" target="qfBd_sHDhE5tFHjCVVJm-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-8" value="拆二/三或II/III&lt;br&gt;五组牌无剩余" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="572" width="138" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-11" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="qfBd_sHDhE5tFHjCVVJm-63" source="qfBd_sHDhE5tFHjCVVJm-2" target="qfBd_sHDhE5tFHjCVVJm-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-13" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;打七&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进张情况&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;一/四/五/八/I/IV/1/4/7&lt;br&gt;9*4-1=35" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="10" y="183" width="203" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-14" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;打三&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进张情况&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;五/七/八/I/IV/IX/1/4/7&lt;br&gt;9*4-5=31" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="10" y="276" width="202" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;curved=1;" parent="qfBd_sHDhE5tFHjCVVJm-63" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="219" y="267" as="sourcePoint"/>
+                        <mxPoint x="290" y="264" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-16" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;打七&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进7&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;二/三｜六/七｜II/III｜IX/IX｜2/3/4｜5/6/7&lt;br&gt;六组，三色同顺；拆六/七&lt;br&gt;&lt;b&gt;进张&lt;br&gt;&lt;/b&gt;一/四/I/IV 4*4=16" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="325" y="146" width="377" height="132" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;打三&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进7&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;二｜六/七/七｜II/III｜IX/IX｜2/3/4｜5/6/7&lt;br&gt;六组；打二&lt;br&gt;&lt;b&gt;进张&lt;br&gt;&lt;/b&gt;五/七/八/I/IV/IX 6*4-4=20" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="323" y="285" width="377" height="132" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="27.75" y="433" width="342.5" height="121.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-18" vertex="1">
+                    <mxGeometry width="342.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-19" vertex="1">
+                    <mxGeometry width="170" height="40" as="geometry">
+                        <mxRectangle width="170" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-21" value="⭐️⭐️" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-19" vertex="1">
+                    <mxGeometry x="170" width="89" height="40" as="geometry">
+                        <mxRectangle width="89" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-22" value="⭐️" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-19" vertex="1">
+                    <mxGeometry x="259" width="84" height="40" as="geometry">
+                        <mxRectangle width="84" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-18" vertex="1">
+                    <mxGeometry y="40" width="342.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-24" value="打七（六组牌）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-23" vertex="1">
+                    <mxGeometry width="170" height="40" as="geometry">
+                        <mxRectangle width="170" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-25" value="35&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-23" vertex="1">
+                    <mxGeometry x="170" width="89" height="40" as="geometry">
+                        <mxRectangle width="89" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-26" value="16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-23" vertex="1">
+                    <mxGeometry x="259" width="84" height="40" as="geometry">
+                        <mxRectangle width="84" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="qfBd_sHDhE5tFHjCVVJm-18" vertex="1">
+                    <mxGeometry y="80" width="342.5" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-28" value="打三（五组牌）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-27" vertex="1">
+                    <mxGeometry width="170" height="42" as="geometry">
+                        <mxRectangle width="170" height="42" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-29" value="31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-27" vertex="1">
+                    <mxGeometry x="170" width="89" height="42" as="geometry">
+                        <mxRectangle width="89" height="42" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-30" value="20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=none;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=雅痞-简;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;rounded=0;" parent="qfBd_sHDhE5tFHjCVVJm-27" vertex="1">
+                    <mxGeometry x="259" width="84" height="42" as="geometry">
+                        <mxRectangle width="84" height="42" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-31" value="使用六组牌理论&lt;br&gt;在二向听时有多四牌优势&lt;br&gt;在一向听时有少四张牌劣势" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="398" y="454" width="258" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-32" value="&amp;gt; 第三种可能打IX，进张一/四/五/七/八/I/IV/VII，10*4-3=37&lt;br&gt;这种打法可以保留三色同顺，拆IX/IX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-63" vertex="1">
+                    <mxGeometry x="45" y="582" width="539" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-64" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="-6555" y="-7410" width="724.1953942340724" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;二/三/四｜六/七/七｜III/VIII/VIII｜2/3/4｜7/8" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-64" vertex="1">
+                    <mxGeometry x="15.75" width="403" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-34" value="打III一向听，但牌最后变成&lt;br&gt;二/三/四｜七/七｜VIII/VIII/VIII｜2/3/4｜7/8 9&lt;br&gt;想要扩大回报，可以打七&lt;br&gt;形成立直、平和，可能有断幺、三色同顺" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-64" vertex="1">
+                    <mxGeometry y="72" width="407" height="108" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-35" value="仅立直，无断幺，无平和 太小了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rotation=-15;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="qfBd_sHDhE5tFHjCVVJm-64" vertex="1">
+                    <mxGeometry x="418.75" y="44" width="306" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-36" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.087;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="qfBd_sHDhE5tFHjCVVJm-64" source="qfBd_sHDhE5tFHjCVVJm-34" target="qfBd_sHDhE5tFHjCVVJm-35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-65" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="-6567.77" y="-7201.9953553736395" width="739.5397419912797" height="137.76535537363998" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-37" value="C. 二/三/四｜六/七/七｜III/VIII/VIII｜2/3/4｜6/8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="qfBd_sHDhE5tFHjCVVJm-65" vertex="1">
+                    <mxGeometry y="98.76535537363998" width="438" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-38" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;strokeColor=none;" parent="qfBd_sHDhE5tFHjCVVJm-65" vertex="1">
+                    <mxGeometry x="383.75" y="96.76535537363998" width="61" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-39" value="坎张在摸到II/IV时拆&lt;br&gt;或dora为II/IV/III/V/I时可以留下III" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;rotation=15;" parent="qfBd_sHDhE5tFHjCVVJm-65" vertex="1">
+                    <mxGeometry x="444.75" y="36.76535537363998" width="292" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qfBd_sHDhE5tFHjCVVJm-40" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.509;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;strokeColor=none;" parent="qfBd_sHDhE5tFHjCVVJm-65" source="qfBd_sHDhE5tFHjCVVJm-38" target="qfBd_sHDhE5tFHjCVVJm-39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="543.75" y="137.76535537363998"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="ONUsdTBa5kUIlT_icGe9" name="一向听顶峰理论">
+        <mxGraphModel dx="882" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="NusURjfALtVwdDzmSdG8-1" value="如何构造进张面更广的一向听？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="325" y="89" width="438" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-19" value="" style="group;strokeColor=default;rounded=1;dashed=1;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="45" y="472" width="737" height="199" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A.&lt;/span&gt;&lt;/div&gt;七/八/八｜I/I/III｜VII/IX｜1/3｜8/9｜中/中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry width="377" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-11" value="六组牌，三向听" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry x="13" y="76" width="158" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-12" value="打八，在五组转六组时大概率有完成的面子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry x="217" y="76" width="398" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-13" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="NusURjfALtVwdDzmSdG8-19" source="NusURjfALtVwdDzmSdG8-11" target="NusURjfALtVwdDzmSdG8-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-15" value="七/八/八｜IX/IX｜1/3｜7/8｜发/发｜中/中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry y="123" width="390" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-16" value="六组，二向听" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry x="21" y="163" width="138" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-17" value="两向听时六组转五组，以碰为中心，考虑全带三色，拆1/3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" parent="NusURjfALtVwdDzmSdG8-19" vertex="1">
+                    <mxGeometry x="217" y="163" width="520" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-18" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="NusURjfALtVwdDzmSdG8-19" source="NusURjfALtVwdDzmSdG8-16" target="NusURjfALtVwdDzmSdG8-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-20" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="54" y="205" width="719" height="177" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-3" value="&lt;ol&gt;&lt;li&gt;无剩余牌的一向听&lt;/li&gt;&lt;li&gt;两向听时将六组牌精简为五组牌&lt;/li&gt;&lt;li&gt;不拘泥于“进张的数量”&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="NusURjfALtVwdDzmSdG8-20" vertex="1">
+                    <mxGeometry y="24" width="342" height="124" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-4" value="一向听时是最好的形状——点高、进张多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="NusURjfALtVwdDzmSdG8-20" vertex="1">
+                    <mxGeometry x="363" y="15" width="354" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-10" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;exitX=0.554;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NusURjfALtVwdDzmSdG8-20" source="NusURjfALtVwdDzmSdG8-3" target="NusURjfALtVwdDzmSdG8-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="269"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-5" value="有时候一张牌没打，但是就是抓不到！" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=雅痞-简;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="NusURjfALtVwdDzmSdG8-20" vertex="1">
+                    <mxGeometry x="361" y="126" width="358" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="NusURjfALtVwdDzmSdG8-8" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" parent="NusURjfALtVwdDzmSdG8-20" source="NusURjfALtVwdDzmSdG8-3" target="NusURjfALtVwdDzmSdG8-5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="241" y="177"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
